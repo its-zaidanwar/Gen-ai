@@ -1,0 +1,3 @@
+invoke method = give the data from ai at once 
+
+stream method = give the data word by word in token by token jsut like chatgpt and etc 
